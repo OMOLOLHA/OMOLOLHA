@@ -1,5 +1,4 @@
 - 📊 Data Analyst specialized in translating complex data into actionable insights.
-- 🏦 Customer Service Expert at FirstBank, with a decade of hands-on experience enhancing user experiences and solving critical business problems.
 - 📈 Proficient in Excel, Power BI, SQL, and Python to develop data models, automate reporting, and drive business insights.
 - 🔍 Skilled in data visualization to transform raw data into clear and impactful dashboards for effective decision-making.
 - 💼 Experienced in data-driven customer service analytics, optimizing processes and identifying trends that support strategic goals.
